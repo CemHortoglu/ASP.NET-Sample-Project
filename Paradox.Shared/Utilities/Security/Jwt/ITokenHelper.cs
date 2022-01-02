@@ -9,6 +9,6 @@ namespace Paradox.Shared.Utilities.Security.Jwt
 {
     public interface ITokenHelper
     {
-        AccessToken CreateToken(User user, OperationClime operationClime);
+        AccessToken CreateToken(User user, List<OperationClime> operationClime);
     }
 }

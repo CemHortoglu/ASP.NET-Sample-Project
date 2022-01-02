@@ -10,3 +10,15 @@ C:\Users\Admin\Desktop\Project\Paradox\Web\Paradox\Paradox.Model\obj\Debug\net5.
 C:\Users\Admin\Desktop\Project\Paradox\Web\Paradox\Paradox.Model\obj\Debug\net5.0\Paradox.Model.dll
 C:\Users\Admin\Desktop\Project\Paradox\Web\Paradox\Paradox.Model\obj\Debug\net5.0\ref\Paradox.Model.dll
 C:\Users\Admin\Desktop\Project\Paradox\Web\Paradox\Paradox.Model\obj\Debug\net5.0\Paradox.Model.pdb
+C:\Users\Admin\Desktop\Project\Paradox\Web\Paradox\ASP.NET-Sample-Project\Paradox.Model\bin\Debug\net5.0\Paradox.Model.deps.json
+C:\Users\Admin\Desktop\Project\Paradox\Web\Paradox\ASP.NET-Sample-Project\Paradox.Model\bin\Debug\net5.0\Paradox.Model.dll
+C:\Users\Admin\Desktop\Project\Paradox\Web\Paradox\ASP.NET-Sample-Project\Paradox.Model\bin\Debug\net5.0\ref\Paradox.Model.dll
+C:\Users\Admin\Desktop\Project\Paradox\Web\Paradox\ASP.NET-Sample-Project\Paradox.Model\bin\Debug\net5.0\Paradox.Model.pdb
+C:\Users\Admin\Desktop\Project\Paradox\Web\Paradox\ASP.NET-Sample-Project\Paradox.Model\obj\Debug\net5.0\Paradox.Model.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Project\Paradox\Web\Paradox\ASP.NET-Sample-Project\Paradox.Model\obj\Debug\net5.0\Paradox.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Project\Paradox\Web\Paradox\ASP.NET-Sample-Project\Paradox.Model\obj\Debug\net5.0\Paradox.Model.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Project\Paradox\Web\Paradox\ASP.NET-Sample-Project\Paradox.Model\obj\Debug\net5.0\Paradox.Model.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Project\Paradox\Web\Paradox\ASP.NET-Sample-Project\Paradox.Model\obj\Debug\net5.0\Paradox.Model.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Project\Paradox\Web\Paradox\ASP.NET-Sample-Project\Paradox.Model\obj\Debug\net5.0\Paradox.Model.dll
+C:\Users\Admin\Desktop\Project\Paradox\Web\Paradox\ASP.NET-Sample-Project\Paradox.Model\obj\Debug\net5.0\ref\Paradox.Model.dll
+C:\Users\Admin\Desktop\Project\Paradox\Web\Paradox\ASP.NET-Sample-Project\Paradox.Model\obj\Debug\net5.0\Paradox.Model.pdb

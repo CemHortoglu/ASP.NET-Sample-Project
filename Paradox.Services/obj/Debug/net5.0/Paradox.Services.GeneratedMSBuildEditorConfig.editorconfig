@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = Paradox.Services
-build_property.ProjectDir = C:\Users\Admin\Desktop\Project\Paradox\Web\Paradox\Paradox.Services\
+build_property.ProjectDir = C:\Users\Admin\Desktop\Project\Paradox\Web\Paradox\ASP.NET-Sample-Project\Paradox.Services\

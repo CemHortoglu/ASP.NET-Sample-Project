@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\Desktop\\Project\\Paradox\\Web\\Paradox\\Paradox.Shared\\Paradox.Shared.csproj": {}
+    "C:\\Users\\Admin\\Desktop\\Project\\Paradox\\Web\\Paradox\\ASP.NET-Sample-Project\\Paradox.Shared\\Paradox.Shared.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\Desktop\\Project\\Paradox\\Web\\Paradox\\Paradox.Shared\\Paradox.Shared.csproj": {
+    "C:\\Users\\Admin\\Desktop\\Project\\Paradox\\Web\\Paradox\\ASP.NET-Sample-Project\\Paradox.Shared\\Paradox.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\Project\\Paradox\\Web\\Paradox\\Paradox.Shared\\Paradox.Shared.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\Project\\Paradox\\Web\\Paradox\\ASP.NET-Sample-Project\\Paradox.Shared\\Paradox.Shared.csproj",
         "projectName": "Paradox.Shared",
-        "projectPath": "C:\\Users\\Admin\\Desktop\\Project\\Paradox\\Web\\Paradox\\Paradox.Shared\\Paradox.Shared.csproj",
+        "projectPath": "C:\\Users\\Admin\\Desktop\\Project\\Paradox\\Web\\Paradox\\ASP.NET-Sample-Project\\Paradox.Shared\\Paradox.Shared.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Desktop\\Project\\Paradox\\Web\\Paradox\\Paradox.Shared\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\Desktop\\Project\\Paradox\\Web\\Paradox\\ASP.NET-Sample-Project\\Paradox.Shared\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -44,9 +44,25 @@
               "target": "Package",
               "version": "[5.0.13, )"
             },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Binder": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
             "Microsoft.Extensions.Localization.Abstractions": {
               "target": "Package",
               "version": "[5.0.13, )"
+            },
+            "Microsoft.IdentityModel.Tokens": {
+              "target": "Package",
+              "version": "[6.15.0, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.15.0, )"
             }
           },
           "imports": [
