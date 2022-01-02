@@ -1,0 +1,17 @@
+C:\Users\Admin\Desktop\Project\Paradox\Web\Paradox\Paradox.Entities\bin\Debug\net5.0\Paradox.Entities.deps.json
+C:\Users\Admin\Desktop\Project\Paradox\Web\Paradox\Paradox.Entities\bin\Debug\net5.0\Paradox.Entities.dll
+C:\Users\Admin\Desktop\Project\Paradox\Web\Paradox\Paradox.Entities\bin\Debug\net5.0\ref\Paradox.Entities.dll
+C:\Users\Admin\Desktop\Project\Paradox\Web\Paradox\Paradox.Entities\bin\Debug\net5.0\Paradox.Entities.pdb
+C:\Users\Admin\Desktop\Project\Paradox\Web\Paradox\Paradox.Entities\bin\Debug\net5.0\Paradox.Shared.dll
+C:\Users\Admin\Desktop\Project\Paradox\Web\Paradox\Paradox.Entities\bin\Debug\net5.0\Paradox.Shared.pdb
+C:\Users\Admin\Desktop\Project\Paradox\Web\Paradox\Paradox.Entities\bin\Debug\net5.0\en-US\Paradox.Shared.resources.dll
+C:\Users\Admin\Desktop\Project\Paradox\Web\Paradox\Paradox.Entities\bin\Debug\net5.0\fr-FR\Paradox.Shared.resources.dll
+C:\Users\Admin\Desktop\Project\Paradox\Web\Paradox\Paradox.Entities\obj\Debug\net5.0\Paradox.Entities.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Project\Paradox\Web\Paradox\Paradox.Entities\obj\Debug\net5.0\Paradox.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Project\Paradox\Web\Paradox\Paradox.Entities\obj\Debug\net5.0\Paradox.Entities.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Project\Paradox\Web\Paradox\Paradox.Entities\obj\Debug\net5.0\Paradox.Entities.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Project\Paradox\Web\Paradox\Paradox.Entities\obj\Debug\net5.0\Paradox.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Project\Paradox\Web\Paradox\Paradox.Entities\obj\Debug\net5.0\Paradox.Entities.dll
+C:\Users\Admin\Desktop\Project\Paradox\Web\Paradox\Paradox.Entities\obj\Debug\net5.0\ref\Paradox.Entities.dll
+C:\Users\Admin\Desktop\Project\Paradox\Web\Paradox\Paradox.Entities\obj\Debug\net5.0\Paradox.Entities.pdb
+C:\Users\Admin\Desktop\Project\Paradox\Web\Paradox\Paradox.Entities\obj\Debug\net5.0\Paradox.Entities.csproj.CopyComplete

@@ -1,0 +1,16 @@
+﻿
+Add-Migration -Context ParadoxContext
+update-database -Context ParadoxContext
+
+
+
+-------------------------------------------
+
+Repository
+Dependency Injection
+Unit of Works- Transactions 
+
+Mapping with Fluent API
+Extension
+Custom Validation Attribute
+Token based authentication (Jwt)
